@@ -24,7 +24,8 @@
     "stripe": "^11.4.0",
     "sweetalert2": "^11.6.16",
     "sweetalert2-react-content": "^5.0.7",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "start": "react-scripts start",
